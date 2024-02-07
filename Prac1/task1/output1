@@ -1,0 +1,3 @@
+Sum: 45289. Time: 13398. Memory: 0 [Sequence]
+Sum: 45289. Time: 1316. Memory: 1896592 [Thread]
+Sum: 45289. Time: 3184. Memory: 1279144 [Fork]
